@@ -1,0 +1,13 @@
+to do : 
+add many metrics 
+add many models
+add many graphs
+check what else to do
+
+
+
+idea : 
+make a model
+use a gridsearch to find out what are the best params
+get the best params possible 
+make a pie chart and present that
